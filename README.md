@@ -26,4 +26,4 @@ El 74LS165 se puede conectar como Parallel-in/Serial-Out, su principal función 
 
 ![image](https://user-images.githubusercontent.com/79483512/190944098-9aa8a18f-841e-4309-ac05-cc272c644ca2.png)
 
-![image](https://user-images.githubusercontent.com/79483512/190944118-af18aa4f-940a-4180-a445-9fd729e22874.png)
+![image](https://user-images.githubusercontent.com/79483512/190944248-da822258-a550-40f7-b361-da7461c92344.png)
