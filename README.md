@@ -1,4 +1,4 @@
-# sensores
+# Sensores
 ## 274HC595 Shift Register
 
 El registro 74HC595 permite convertir datos en formato serial a paralelo. Es un chip ideal para expandir las salidas digitales de nuestro Arduino.
